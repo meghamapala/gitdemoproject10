@@ -9,6 +9,10 @@ public class HelloWorld {
 		System.out.println("Hello! welcome to new Hello world 10!.........");
 		
 		System.out.println("***************************");
+		
+		 for(int i=10; i>5; i--) {
+			System.out.println(i);
+		}
 
 	}
 
